@@ -68,6 +68,6 @@ theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: git@github.com:gustavoquinalha/hexo-node-blog.git
   branch: master
